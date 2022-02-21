@@ -2,7 +2,7 @@
 
 ## Deployment
 
-- [GitHub Repository](https://github.com/carolinatnp/recipe-app)
+- [GitHub Repository](https://github.com/cn-kp/Recipe-FInder)
 - [GitHub Deployed Link](https://cn-kp.github.io/Recipe-FInder/)
 
 ## User Story

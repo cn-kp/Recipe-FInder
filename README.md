@@ -3,7 +3,7 @@
 ## Deployment
 
 - [GitHub Repository](https://github.com/carolinatnp/recipe-app)
-- [GitHub Deployed Link](https://carolinatnp.github.io/recipe-app/)
+- [GitHub Deployed Link](https://cn-kp.github.io/Recipe-FInder/)
 
 ## User Story
 
